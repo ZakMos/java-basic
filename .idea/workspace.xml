@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff0a77fb-f297-4eaf-bb70-45d6cc5a9fe0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_Fundamantel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/CalcEngine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Looping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/META-INF/Java.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalcEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Looping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="224" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1X4XoenomoK0zanELvZ5T0IpORv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.Looping">
+    <configuration name="CalcEngine" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalcEngine" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Looping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Looping" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Java" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Looping" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff0a77fb-f297-4eaf-bb70-45d6cc5a9fe0" name="Default Changelist" comment="" />
+      <created>1580306517484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580306517484</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/java-basic" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="468" y="109" width="653" height="682" key="#Main" timestamp="1581238970409">
+      <screen x="0" y="27" width="1600" height="840" />
+    </state>
+    <state x="468" y="109" width="653" height="682" key="#Main/0.27.1600.840@0.27.1600.840" timestamp="1581238970409" />
+    <state x="395" y="108" width="800" height="684" key="#Notifications" timestamp="1581401695129">
+      <screen x="0" y="27" width="1600" height="840" />
+    </state>
+    <state x="395" y="108" width="800" height="684" key="#Notifications/0.27.1600.840@0.27.1600.840" timestamp="1581401695129" />
+    <state x="258" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581238743764">
+      <screen x="0" y="27" width="1600" height="840" />
+    </state>
+    <state x="258" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1600.840@0.27.1600.840" timestamp="1581238743764" />
+    <state x="532" y="232" width="525" height="437" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581238963408">
+      <screen x="0" y="27" width="1600" height="840" />
+    </state>
+    <state x="532" y="232" width="525" height="437" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1600.840@0.27.1600.840" timestamp="1581238963408" />
+    <state x="565" y="160" width="476" height="580" key="DetectedRootsChooserDialog" timestamp="1581239199537">
+      <screen x="0" y="27" width="1600" height="840" />
+    </state>
+    <state x="565" y="160" width="476" height="580" key="DetectedRootsChooserDialog/0.27.1600.840@0.27.1600.840" timestamp="1581239199537" />
+    <state x="100" y="127" width="1400" height="640" key="DiffContextDialog" timestamp="1581239265834">
+      <screen x="0" y="27" width="1600" height="840" />
+    </state>
+    <state x="100" y="127" width="1400" height="640" key="DiffContextDialog/0.27.1600.840@0.27.1600.840" timestamp="1581239265834" />
+    <state x="583" y="205" width="701" height="498" key="FileChooserDialogImpl" timestamp="1581239188739">
+      <screen x="0" y="27" width="1600" height="840" />
+    </state>
+    <state x="583" y="205" width="701" height="498" key="FileChooserDialogImpl/0.27.1600.840@0.27.1600.840" timestamp="1581239188739" />
+    <state width="1552" height="204" key="GridCell.Tab.0.bottom" timestamp="1581311837357">
+      <screen x="0" y="27" width="1600" height="840" />
+    </state>
+    <state width="1552" height="204" key="GridCell.Tab.0.bottom/0.27.1600.840@0.27.1600.840" timestamp="1581311837357" />
+    <state width="1552" height="204" key="GridCell.Tab.0.center" timestamp="1581311837356">
+      <screen x="0" y="27" width="1600" height="840" />
+    </state>
+    <state width="1552" height="204" key="GridCell.Tab.0.center/0.27.1600.840@0.27.1600.840" timestamp="1581311837356" />
+    <state width="1552" height="204" key="GridCell.Tab.0.left" timestamp="1581311837352">
+      <screen x="0" y="27" width="1600" height="840" />
+    </state>
+    <state width="1552" height="204" key="GridCell.Tab.0.left/0.27.1600.840@0.27.1600.840" timestamp="1581311837352" />
+    <state width="1552" height="204" key="GridCell.Tab.0.right" timestamp="1581311837356">
+      <screen x="0" y="27" width="1600" height="840" />
+    </state>
+    <state width="1552" height="204" key="GridCell.Tab.0.right/0.27.1600.840@0.27.1600.840" timestamp="1581311837356" />
+    <state x="296" y="27" width="1024" height="840" key="SettingsEditor" timestamp="1581401676711">
+      <screen x="0" y="27" width="1600" height="840" />
+    </state>
+    <state x="296" y="27" width="1024" height="840" key="SettingsEditor/0.27.1600.840@0.27.1600.840" timestamp="1581401676711" />
+    <state x="395" y="183" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1581428441011">
+      <screen x="0" y="27" width="1600" height="840" />
+    </state>
+    <state x="395" y="183" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1600.840@0.27.1600.840" timestamp="1581428441011" />
+    <state x="466" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1581402140396">
+      <screen x="0" y="27" width="1600" height="840" />
+    </state>
+    <state x="466" y="274" key="com.intellij.ide.util.TipDialog/0.27.1600.840@0.27.1600.840" timestamp="1581402140396" />
+    <state x="122" y="27" width="1345" height="840" key="new project wizard" timestamp="1580322556065">
+      <screen x="0" y="27" width="1600" height="840" />
+    </state>
+    <state x="122" y="27" width="1345" height="840" key="new project wizard/0.27.1600.840@0.27.1600.840" timestamp="1580322556065" />
+    <state x="464" y="199" width="672" height="677" key="run.anything.popup" timestamp="1581233951543">
+      <screen x="0" y="27" width="1600" height="840" />
+    </state>
+    <state x="464" y="199" width="672" height="677" key="run.anything.popup/0.27.1600.840@0.27.1600.840" timestamp="1581233951543" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_Fundamantel$CalcEngine.ic" NAME="CalcEngine Coverage Results" MODIFIED="1581311773488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Java_Fundamantel$Main.ic" NAME="Main Coverage Results" MODIFIED="1581244117602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Java_Fundamantel$Looping.ic" NAME="Looping Coverage Results" MODIFIED="1581311837316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
