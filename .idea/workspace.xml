@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff0a77fb-f297-4eaf-bb70-45d6cc5a9fe0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_Fundamantel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java/CalcEngine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java/Looping.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java/META-INF/Java.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalcEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Looping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="ff0a77fb-f297-4eaf-bb70-45d6cc5a9fe0" name="Default Changelist" comment="workspace">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +21,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1X4XoenomoK0zanELvZ5T0IpORv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -94,13 +80,51 @@
       <option name="presentableId" value="Default" />
       <updated>1580306517484</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1581428527834</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581428527834</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Calc Engine">
+      <created>1581428563594</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581428563594</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Looping">
+      <created>1581428584648</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581428584648</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/java-basic" />
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Calc Engine" />
+    <MESSAGE value="Looping" />
+    <MESSAGE value="workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
   </component>
   <component name="WindowStateProjectService">
     <state x="468" y="109" width="653" height="682" key="#Main" timestamp="1581238970409">
@@ -119,10 +143,10 @@
       <screen x="0" y="27" width="1600" height="840" />
     </state>
     <state x="532" y="232" width="525" height="437" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1600.840@0.27.1600.840" timestamp="1581238963408" />
-    <state x="415" y="41" width="760" height="818" key="CommitChangelistDialog2" timestamp="1581428562952">
+    <state x="415" y="41" width="760" height="818" key="CommitChangelistDialog2" timestamp="1581428635792">
       <screen x="0" y="27" width="1600" height="840" />
     </state>
-    <state x="415" y="41" width="760" height="818" key="CommitChangelistDialog2/0.27.1600.840@0.27.1600.840" timestamp="1581428562952" />
+    <state x="415" y="41" width="760" height="818" key="CommitChangelistDialog2/0.27.1600.840@0.27.1600.840" timestamp="1581428635792" />
     <state x="565" y="160" width="476" height="580" key="DetectedRootsChooserDialog" timestamp="1581239199537">
       <screen x="0" y="27" width="1600" height="840" />
     </state>
@@ -163,6 +187,10 @@
       <screen x="0" y="27" width="1600" height="840" />
     </state>
     <state x="466" y="274" key="com.intellij.ide.util.TipDialog/0.27.1600.840@0.27.1600.840" timestamp="1581402140396" />
+    <state x="578" y="366" width="443" height="169" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581428656555">
+      <screen x="0" y="27" width="1600" height="840" />
+    </state>
+    <state x="578" y="366" width="443" height="169" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1600.840@0.27.1600.840" timestamp="1581428656555" />
     <state x="122" y="27" width="1345" height="840" key="new project wizard" timestamp="1580322556065">
       <screen x="0" y="27" width="1600" height="840" />
     </state>
